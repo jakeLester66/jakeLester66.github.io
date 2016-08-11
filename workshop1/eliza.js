@@ -167,6 +167,9 @@ var rules = {
   "~*x you are ~*y": [
     "What makes you think I am ~y?",
   ],
+  "~*x life ~*y": [
+    "The only meaning life has is what you make of it. ~y?",
+  ],
   "~*x because ~*y": [
     "Is that the real reason?",
     "What other reasons might there be?",
