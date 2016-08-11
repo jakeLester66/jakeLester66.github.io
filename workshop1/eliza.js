@@ -224,6 +224,8 @@ var rules = {
   ],
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
+  ],"~*x fight club ~*y": [
+    "The first rule of Fight Club is: you do not talk about Fight Club. The second rule of Fight Club is: you DO NOT talk about Fight Club! Third rule of Fight Club: if someone yells “stop!”, goes limp, or taps out, the fight is over. Fourth rule: only two guys to a fight.",
   ],
 };
 
